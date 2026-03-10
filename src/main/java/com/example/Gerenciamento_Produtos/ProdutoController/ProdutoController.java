@@ -1,4 +1,4 @@
-package com.example.Gerenciamento_Produtos.Controller;
+package com.example.Gerenciamento_Produtos.ProdutoController;
 
 
 import com.example.Gerenciamento_Produtos.Produto.Produto;
